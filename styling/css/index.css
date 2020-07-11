@@ -465,12 +465,13 @@ button:hover {
   opacity: 0.6;
   width: auto;
 }
+.section nav ul {
+  padding-inline-start: 0px;
+}
 .section nav ul a {
   color: #ffffff;
   opacity: 0.6;
   transition: 0.15s;
-  padding-right: 40px;
-  padding-left: 20px;
 }
 .section nav ul a:hover {
   opacity: 1;
