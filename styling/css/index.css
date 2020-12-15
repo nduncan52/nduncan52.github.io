@@ -488,6 +488,9 @@ button:hover {
 .footer-wrapper .footer {
   text-align: center;
 }
+.footer-wrapper .footer p {
+  font-size: 0.9em;
+}
 .footer-wrapper .footer .logo {
   height: 30px;
   opacity: 0.6;
