@@ -272,6 +272,10 @@ button:hover {
   margin-left: 0px;
 }
 
+.card-section-wrapper .card-section .card-item .picture img {
+  height: 225px
+}
+
 .card-section-wrapper .card-section .card-item .card-header h3 {
   color: #197d5a;
   font-weight: 500;
@@ -314,6 +318,10 @@ button:hover {
     width: 100%;
   }
 
+  .card-section-wrapper .card-section .card-item .picture img {
+    height: 200px
+  }
+
   .card-section-wrapper .card-section .card-item .card-header h3 {
     font-size: 1.65em;
     margin-bottom: 12px;
@@ -326,16 +334,16 @@ button:hover {
 
   /* .card-section-wrapper .card-section .card-item .card-content .card-list-item {
     padding: 12px 0;
-  }
-  .card-section-wrapper
+  } */
+  /* .card-section-wrapper
     .card-section
     .card-item
     .card-content
     .card-list-item
     img {
-    height: 26px;
-  }
-  .card-section-wrapper
+    height: 12px;
+  } */
+  /* .card-section-wrapper
     .card-section
     .card-item
     .card-content
