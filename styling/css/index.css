@@ -175,6 +175,20 @@ button:hover {
   max-width: 600px;
   margin-bottom: 24px;
 }
+
+.center-wrap .center .left .googleButton {
+  width: auto;
+  height: 7.5vh;
+  margin: 16px;
+}
+
+.center-wrap .center .left .appleButton {
+  width: auto;
+  height: 7.5vh;
+  margin: 16px;
+  margin-left: 0px;
+}
+
 .center-wrap .center .right img {
   width: auto;
   height: 65vh;
@@ -199,9 +213,12 @@ button:hover {
   .center-wrap .center .left h1 {
     font-size: 1.8em;
   }
-  .center-wrap .center .left .desc {
-    margin-bottom: 24px;
+  
+  .center-wrap .center .left .appleButton {
+    margin: 16px;
+    margin-left: 0px;
   }
+
   .center-wrap .center .right img {
     height: 65vh;
   }
@@ -238,6 +255,15 @@ button:hover {
     margin-bottom: 24px;
     text-align: left;
   }
+
+  .center-wrap .center .left .googleButton {
+    margin: 16px;
+  }
+  
+  .center-wrap .center .left .appleButton {
+    margin: 16px;
+  }
+
   .center-wrap .center .right {
     margin-top: 36px;
     text-align: center;
